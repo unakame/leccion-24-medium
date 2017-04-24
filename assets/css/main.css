@@ -1,0 +1,25 @@
+*{
+  margin:0;
+}
+
+.texto{
+  color: #393939;
+  font-family: "Droid Sans";
+  margin-left: 150px;
+}
+
+#medium{
+
+  width: 40px;
+
+}
+
+.image{
+  margin-left: 20px;
+  height: 40px;
+  margin-top: 10px;
+}
+
+span{
+  margin-left: 20px;
+}
