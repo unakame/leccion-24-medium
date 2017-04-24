@@ -6,12 +6,11 @@
   color: #393939;
   font-family: "Droid Sans";
   margin-left: 150px;
+  font-size: 30px;
 }
 
 #medium{
-
   width: 40px;
-
 }
 
 .image{
@@ -22,4 +21,32 @@
 
 span{
   margin-left: 20px;
+}
+
+.icon-search{
+  margin-left: 680px;
+}
+
+div{
+  width: 1000px;
+  height: 500px;
+  margin-left: 200px;
+}
+
+header{
+    width: 1200px;
+}
+
+p{
+    font-family: "Roboto";
+}
+
+#description{
+  color: #CED0D1;
+  font-size: 11px;
+}
+
+#name{
+  color: #424242;
+  font-size: 15px;
 }
