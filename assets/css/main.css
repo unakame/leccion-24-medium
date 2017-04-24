@@ -5,12 +5,13 @@
 .texto{
   color: #393939;
   font-family: "Droid Sans";
-  margin-left: 150px;
+  margin-left: 0px;
   font-size: 30px;
 }
 
 #medium{
   width: 40px;
+  margin-left: 140px;
 }
 
 .image{
@@ -24,17 +25,17 @@ span{
 }
 
 .icon-search{
-  margin-left: 680px;
+  margin-left: 770px;
 }
 
 div{
   width: 1000px;
   height: 500px;
-  margin-left: 200px;
+  margin-left:280px;
 }
 
 header{
-    width: 1200px;
+    width: 1300px;
 }
 
 p{
@@ -44,9 +45,16 @@ p{
 #description{
   color: #CED0D1;
   font-size: 11px;
+  margin-left: 90px;
 }
 
 #name{
   color: #424242;
   font-size: 15px;
+  margin-top: -60px;
+  margin-left: 90px;
+}
+
+#belen{
+  height: 70px;
 }
